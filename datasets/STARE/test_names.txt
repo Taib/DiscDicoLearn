@@ -1,0 +1,11 @@
+im_name,gt_name
+images/im0002.ppm,label1/label1_im0002.ppm
+images/im0004.ppm,label1/label1_im0004.ppm
+images/im0081.ppm,label1/label1_im0081.ppm
+images/im0139.ppm,label1/label1_im0139.ppm
+images/im0163.ppm,label1/label1_im0163.ppm
+images/im0239.ppm,label1/label1_im0239.ppm
+images/im0240.ppm,label1/label1_im0240.ppm
+images/im0255.ppm,label1/label1_im0255.ppm
+images/im0291.ppm,label1/label1_im0291.ppm
+images/im0319.ppm,label1/label1_im0319.ppm
